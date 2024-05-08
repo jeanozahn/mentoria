@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mentoria/static/css/main.ae42ac5f.css",
+    "main.js": "/mentoria/static/js/main.b16d1a56.js",
+    "index.html": "/mentoria/index.html",
+    "main.ae42ac5f.css.map": "/mentoria/static/css/main.ae42ac5f.css.map",
+    "main.b16d1a56.js.map": "/mentoria/static/js/main.b16d1a56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.b16d1a56.js"
+  ]
+}
