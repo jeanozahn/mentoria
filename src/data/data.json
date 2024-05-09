@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Mentoria Tech++",
+    "paragraph": "Eleve sua carreira na tecnologia com a Mentoria Tech++: onde cada desafio é uma oportunidade de crescimento!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Como líder de equipes na Diletta Solutions e doutorando em Computação, trago uma vasta experiência acadêmica e profissional para orientar você em sua jornada na tecnologia. Meu foco é capacitar profissionais para alcançar seus objetivos de carreira na área, usando métricas apropriadas, evolução de Hard-Skills e Soft-Skills. Juntos, podemos impulsionar seu crescimento e sucesso na indústria da tecnologia.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experiência comprovada",
+      "Liderança em tecnologia",
+      "Orientação personalizada",
+      "Suporte acadêmico sólido"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Abordagem prático",
+      "Conhecimento diversificado",
+      "Networking valioso",
+      "Resultados tangíveis"
     ]
   },
   "Gallery": [
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Encontros One-on-One",
+      "text": "Sessões individuais exclusivas com o mentor, onde você pode obter dicas personalizadas e muito mais."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Canal Exclusivo",
+      "text": "Um canal exclusivo de comunicação direta com o mentor, para compartilhar dicas, esclarecer dúvidas, descobrir oportunidades e muito mais."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Encontros em Grupo",
+      "text": "Sessões dinâmicas com o mentor e colegas, proporcionando aprendizado coletivo, discussões enriquecedoras e networking profissional."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Ferramentas",
+      "text": "Potencialize seu aprendizado e produtividade com recursos como Notion, Miro e Métricas de Desempenho, integrando tecnologia para impulsionar sua carreira."
     }
   ]
 }
