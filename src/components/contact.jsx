@@ -40,10 +40,9 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
+                <h2>Entre em Contato</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  Envie suas dúvidas através do formulário abaixo ou entre para o nosso grupo Exclusivo no Whatsapp.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
@@ -91,14 +90,14 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                  Enviar Mensagem
                 </button>
               </form>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Contact Info</h3>
+              <h3>Informações de Contato</h3>
               <p>
                 <span>
                   <i className="fa fa-map-marker"></i> Address
@@ -151,9 +150,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2024 Jean Zahn - Metoria Tech++ :: Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+              TemplateWire ::
             </a>
           </p>
         </div>
