@@ -129,26 +129,18 @@
       "name": "Mauro Moura"
     }
   ],
-  "Team": [
+  "Plans": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "description": "Mentoria JZ - Plano Básico",
+      "value": 99.99,
+      "action": "https://google.com.br",
+      "course_info": "No plano básico da Mentoria JZ, você terá acesso a 4 sessões individuais de mentoria com um mentor experiente. Além disso, você receberá materiais de estudo exclusivos e suporte por e-mail durante o período da mentoria."
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "description": "Mentoria JZ - Plano Avançado",
+      "value": 199.99,
+      "action": "https://google.com.br",
+      "course_info": "O plano avançado da Mentoria JZ oferece um programa completo de desenvolvimento pessoal e profissional. Você terá acesso a 8 sessões individuais de mentoria personalizada, feedback detalhado sobre seus projetos e metas, além de suporte ilimitado por e-mail e WhatsApp."
     }
   ],
   "Contact": {

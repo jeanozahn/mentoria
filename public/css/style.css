@@ -440,22 +440,66 @@ header .intro-text {
   color: #666;
 }
 /* Team Section */
-#team {
+#plans {
   padding: 100px 0;
 }
-#team h4 {
+
+#plans .container {
+  display: flex;
+  flex-direction: column;
+}
+
+#plans .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+#plans h4 {
   margin: 5px 0;
 }
-#team .team-img {
-  width: 240px;
+
+#plans .courseInfo {
+  margin: 5px 0;
+  font-size: 12;
+  max-height: 80px;
 }
-#team .thumbnail {
+
+#plans .thumbnail {
+  height: 50vh;
+  width: 260px;
   background: transparent;
+  padding: 10px;
   border: 0;
+  border: 2px solid #5ca9fb;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }
-#team .thumbnail .caption {
+#plans .value {
+  font-size: 25px;
+  color: white;
+  margin-top: -10px;
+}
+#plans .valueCard {
+  width: 130px;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  border-radius: 50%;
+  color: #fff;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+#plans .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+  margin-bottom: 40px;
 }
 /* Contact Section */
 #contact {
