@@ -100,33 +100,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "Com a orientação do meu Líder de Equipe Jean, alcancei novos patamares em minha carreira na tecnologia. Um verdadeiro Líder.",
-      "name": "Lucas Melo"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "Jean me proporcionou clareza e confiança em minha jornada tecnológica! Sou eternamente grato!",
-      "name": "Stephan Oliveira"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "Jean foi meu professor na Universidade e sua experiência abriu portas que eu jamais imaginei! Gratidão eterna!",
-      "name": "Gabriel Marcato"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "Quado comecei, o Jean me orientou e acompanhou minha evolução. Na verdade, acompanha até hoje e sou grata por ter consigo me tornar uma Dev Jr.",
-      "name": "Camille Piaia"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "Jean é mais do que um mentor, é um parceiro de jornada. Sua dedicação e apoio foram fundamentais para meu desenvolvimento na área de desenvolvimento de software.",
-      "name": "Felipe Duarte"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "O Jean me acompanha deste os tempos de Faculdade. Pudemos, juntos, compartilhar experiências e traçar rotas que metornaram um desenvovedor Sr.",
-      "name": "Mauro Moura"
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
     }
   ],
   "Team": [
@@ -152,11 +152,11 @@
     }
   ],
   "Contact": {
-    "address": "Sinop, Mato Grosso, Brasil, 78555-328 ",
-    "phone": "+55 66 99908 2869",
-    "email": "jeanozahn@gmail.com",
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
     "facebook": "fb.com",
-    "twitter": "https://twitter.com/jeanozahn",
+    "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
