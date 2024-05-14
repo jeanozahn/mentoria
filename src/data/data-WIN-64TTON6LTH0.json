@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Mentoria Tech++",
+    "paragraph": "Eleve sua carreira na tecnologia com a Mentoria Tech++: onde cada desafio é uma oportunidade de crescimento!"
+  },
+  "About": {
+    "paragraph": "Como líder de equipes na Diletta Solutions e doutorando em Computação, trago uma vasta experiência acadêmica e profissional para orientar você em sua jornada na tecnologia. Meu foco é capacitar profissionais para alcançar seus objetivos de carreira na área, usando métricas apropriadas, evolução de Hard-Skills e Soft-Skills. Juntos, podemos impulsionar seu crescimento e sucesso na indústria da tecnologia.",
+    "Why": [
+      "Experiência comprovada",
+      "Liderança em tecnologia",
+      "Orientação personalizada",
+      "Suporte acadêmico sólido"
+    ],
+    "Why2": [
+      "Abordagem prático",
+      "Conhecimento diversificado",
+      "Networking valioso",
+      "Resultados tangíveis"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Com a orientação do meu Líder de Equipe Jean, alcancei novos patamares em minha carreira na tecnologia. Um verdadeiro Líder.",
+      "name": "Lucas Melo"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Jean me proporcionou clareza e confiança em minha jornada tecnológica! Sou eternamente grato!",
+      "name": "Stephan Oliveira"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Jean foi meu professor na Universidade e sua experiência abriu portas que eu jamais imaginei! Gratidão eterna!",
+      "name": "Gabriel Marcato"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Quado comecei, o Jean me orientou e acompanhou minha evolução. Na verdade, acompanha até hoje e sou grata por ter consigo me tornar uma Dev Jr.",
+      "name": "Camille Piaia"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Jean é mais do que um mentor, é um parceiro de jornada. Sua dedicação e apoio foram fundamentais para meu desenvolvimento na área de desenvolvimento de software.",
+      "name": "Felipe Duarte"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "O Jean me acompanha deste os tempos de Faculdade. Pudemos, juntos, compartilhar experiências e traçar rotas que metornaram um desenvovedor Sr.",
+      "name": "Mauro Moura"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Sinop, Mato Grosso, Brasil, 78555-328 ",
+    "phone": "+55 66 99908 2869",
+    "email": "jeanozahn@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "https://twitter.com/jeanozahn",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Encontros One-on-One",
+      "text": "Sessões individuais exclusivas com o mentor, onde você pode obter dicas personalizadas e muito mais."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Canal Exclusivo",
+      "text": "Um canal exclusivo de comunicação direta com o mentor, para compartilhar dicas, esclarecer dúvidas, descobrir oportunidades e muito mais."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Encontros em Grupo",
+      "text": "Sessões dinâmicas com o mentor e colegas, proporcionando aprendizado coletivo, discussões enriquecedoras e networking profissional."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Ferramentas",
+      "text": "Potencialize seu aprendizado e produtividade com recursos como Notion, Miro e Métricas de Desempenho, integrando tecnologia para impulsionar sua carreira."
+    }
+  ]
+}
